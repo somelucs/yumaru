@@ -1,0 +1,10 @@
+ntlk
+Flask
+Counter
+Random
+tqdm
+torch
+Adam
+pandas
+numpy
+tensorflow
